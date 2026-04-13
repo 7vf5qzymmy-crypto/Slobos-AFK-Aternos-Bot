@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "swarm_123.aternos.me:53475",
+    "port": 53475,
     "version": "",
     "try-creative": false
   },
